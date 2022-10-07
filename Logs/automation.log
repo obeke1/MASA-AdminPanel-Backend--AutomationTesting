@@ -1,0 +1,461 @@
+09/26/2022 03:57:20 PM - INFO : *********** Start Test_001_Login ******** 
+09/26/2022 03:57:20 PM - INFO : *********** Verifying the Home Page Title **********
+09/26/2022 03:58:06 PM - INFO : ********** Home Page Title Test is Passed ************
+09/26/2022 03:58:28 PM - INFO : *********** Verifying the Login Test **********
+09/26/2022 03:58:55 PM - INFO : ********** Login Test is Passed ************
+09/26/2022 04:01:59 PM - INFO : *********** Start Test_001_Login ******** 
+09/26/2022 04:01:59 PM - INFO : *********** Verifying the Home Page Title **********
+09/26/2022 04:02:23 PM - ERROR : ********** Home Page Title Test is Failed ************
+09/26/2022 04:02:39 PM - INFO : *********** Verifying the Login Test **********
+09/26/2022 04:03:00 PM - ERROR : ********** Login Test is Failed ************
+09/27/2022 09:34:24 AM - INFO : *********** Start Test_001_Login ******** 
+09/27/2022 09:34:24 AM - INFO : *********** Verifying the Home Page Title **********
+09/27/2022 09:35:18 AM - ERROR : ********** Home Page Title Test is Failed ************
+09/27/2022 09:38:06 AM - INFO : *********** Verifying the Login Test **********
+09/27/2022 09:38:47 AM - ERROR : ********** Login Test is Failed ************
+09/27/2022 11:20:48 AM - INFO : *********** Start Test_001_Login ******** 
+09/27/2022 11:20:48 AM - INFO : *********** Verifying the Home Page Title **********
+09/27/2022 11:20:55 AM - ERROR : ********** Home Page Title Test is Failed ************
+09/27/2022 11:35:32 AM - INFO : *********** Start Test_001_Login ******** 
+09/27/2022 11:35:32 AM - INFO : *********** Verifying the Home Page Title **********
+09/27/2022 11:36:06 AM - INFO : ********** Home Page Title Test is Passed ************
+09/27/2022 11:40:09 AM - INFO : *********** Verifying the Login Test **********
+09/27/2022 11:40:53 AM - INFO : ********** Login Test is Passed ************
+09/27/2022 11:49:02 AM - INFO : *********** Start Test_001_Login ******** 
+09/27/2022 11:49:02 AM - INFO : *********** Verifying the Home Page Title **********
+09/27/2022 11:49:19 AM - INFO : ********** Home Page Title Test is Passed ************
+09/27/2022 11:49:31 AM - INFO : *********** Verifying the Login Test **********
+09/27/2022 11:49:53 AM - INFO : ********** Login Test is Passed ************
+09/27/2022 01:03:56 PM - INFO : *********** Start Test_001_Login ******** 
+09/27/2022 01:03:56 PM - INFO : *********** Verifying the Home Page Title **********
+09/27/2022 01:04:24 PM - INFO : ********** Home Page Title Test is Passed ************
+09/27/2022 01:04:38 PM - INFO : *********** Verifying the Login Test **********
+09/27/2022 01:05:07 PM - INFO : ********** Login Test is Passed ************
+09/28/2022 01:13:31 PM - INFO : ******* Test_002_DDT_Login *****
+09/28/2022 01:13:31 PM - INFO : ******* Verifying Login Test DDT ****
+09/28/2022 01:16:07 PM - INFO : ******* Test_002_DDT_Login *****
+09/28/2022 01:16:07 PM - INFO : ******* Verifying Login Test DDT ****
+09/28/2022 01:27:26 PM - INFO : ******* Test_002_DDT_Login *****
+09/28/2022 01:27:26 PM - INFO : ******* Verifying Login Test DDT ****
+09/28/2022 01:43:50 PM - INFO : ******* Test_002_DDT_Login *****
+09/28/2022 01:43:50 PM - INFO : ******* Verifying Login Test DDT ****
+09/28/2022 01:45:12 PM - INFO : ****** Passed ******
+09/28/2022 01:59:42 PM - INFO : ******* Test_002_DDT_Login *****
+09/28/2022 01:59:42 PM - INFO : ******* Verifying Login Test DDT ****
+09/28/2022 02:12:48 PM - INFO : ****** Passed ******
+09/28/2022 02:13:00 PM - INFO : ***** Passed ******
+09/28/2022 02:13:07 PM - INFO : ***** Passed ******
+09/28/2022 02:13:13 PM - INFO : ***** Passed ******
+09/28/2022 02:13:13 PM - INFO : **** Login DDT test Passed ******
+09/28/2022 02:13:20 PM - INFO : ******** End of Login DDT Test *********
+09/28/2022 02:13:20 PM - INFO : ******** Completed TC_loginDDT_002 ********
+09/29/2022 10:22:06 AM - INFO : *********** Start Test_001_Login ******** 
+09/29/2022 10:22:06 AM - INFO : *********** Verifying the Home Page Title **********
+09/29/2022 10:23:35 AM - INFO : ******* Test_002_DDT_Login *****
+09/29/2022 10:23:35 AM - INFO : ******* Verifying Login Test DDT ****
+09/29/2022 10:23:51 AM - INFO : *********** Verifying the Login Test **********
+09/29/2022 10:25:17 AM - INFO : ********** Login Test is Passed ************
+09/29/2022 10:44:46 AM - INFO : ******* Test_002_DDT_Login *****
+09/29/2022 10:44:46 AM - INFO : ******* Verifying Login Test DDT ****
+09/29/2022 10:45:39 AM - INFO : ****** Passed ******
+09/29/2022 10:45:54 AM - INFO : ***** Passed ******
+09/29/2022 10:46:01 AM - INFO : ***** Passed ******
+09/29/2022 10:46:08 AM - INFO : ***** Passed ******
+09/29/2022 10:46:08 AM - INFO : **** Login DDT test Passed ******
+09/29/2022 10:46:19 AM - INFO : ******** End of Login DDT Test *********
+09/29/2022 10:46:19 AM - INFO : ******** Completed TC_loginDDT_002 ********
+09/29/2022 02:39:37 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 02:40:58 PM - INFO : ******** Login Successful ********
+09/29/2022 02:40:58 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 02:43:58 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 02:48:06 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 02:48:32 PM - INFO : ******** Login Successful ********
+09/29/2022 02:48:32 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 03:02:41 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 03:03:51 PM - INFO : ******** Login Successful ********
+09/29/2022 03:03:51 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 03:04:05 PM - INFO : ******* Starting to provide the Player Details
+09/29/2022 04:23:05 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 04:39:34 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 04:40:41 PM - INFO : ******** Login Successful ********
+09/29/2022 04:40:41 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 04:41:00 PM - INFO : ******* Starting to provide the Player Details
+09/29/2022 05:12:33 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 05:13:24 PM - INFO : ******** Login Successful ********
+09/29/2022 05:13:24 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 05:13:50 PM - INFO : ******* Starting to provide the Player Details
+09/29/2022 05:20:55 PM - INFO : *********** Test_003_AddPlayer **********
+09/29/2022 05:23:30 PM - INFO : ******** Login Successful ********
+09/29/2022 05:23:30 PM - INFO : ******* Starting Add Player Test **********
+09/29/2022 05:24:23 PM - INFO : ******* Starting to provide the Player Details
+09/30/2022 09:38:14 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 09:38:44 AM - INFO : ******** Login Successful ********
+09/30/2022 09:38:44 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 09:38:53 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 09:45:30 AM - INFO : *********** Start Test_001_Login ******** 
+09/30/2022 09:45:32 AM - INFO : *********** Verifying the Home Page Title **********
+09/30/2022 09:46:26 AM - INFO : ********** Home Page Title Test is Passed ************
+09/30/2022 09:56:26 AM - INFO : *********** Verifying the Login Test **********
+09/30/2022 09:56:58 AM - INFO : ********** Login Test is Passed ************
+09/30/2022 10:01:44 AM - INFO : ******* Test_002_DDT_Login *****
+09/30/2022 10:01:44 AM - INFO : ******* Verifying Login Test DDT ****
+09/30/2022 10:02:03 AM - INFO : ****** Passed ******
+09/30/2022 10:02:11 AM - INFO : ***** Passed ******
+09/30/2022 10:02:17 AM - INFO : ***** Passed ******
+09/30/2022 10:02:24 AM - INFO : ***** Passed ******
+09/30/2022 10:02:24 AM - INFO : **** Login DDT test Passed ******
+09/30/2022 10:02:27 AM - INFO : ******** End of Login DDT Test *********
+09/30/2022 10:02:27 AM - INFO : ******** Completed TC_loginDDT_002 ********
+09/30/2022 10:41:11 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 10:41:29 AM - INFO : ******** Login Successful ********
+09/30/2022 10:41:29 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 10:41:42 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 10:46:09 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 10:46:30 AM - INFO : ******** Login Successful ********
+09/30/2022 10:46:30 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 10:46:38 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 10:52:00 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 10:52:51 AM - INFO : ******** Login Successful ********
+09/30/2022 10:52:51 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 10:53:13 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 11:11:16 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 11:12:03 AM - INFO : ******** Login Successful ********
+09/30/2022 11:12:03 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 11:12:09 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 11:44:40 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 11:45:25 AM - INFO : ******** Login Successful ********
+09/30/2022 11:45:25 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 11:45:44 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 11:52:13 AM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 11:52:45 AM - INFO : ******** Login Successful ********
+09/30/2022 11:52:45 AM - INFO : ******* Starting Add Player Test **********
+09/30/2022 11:53:08 AM - INFO : ******* Starting to provide the Player Details
+09/30/2022 12:01:37 PM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 12:01:52 PM - INFO : ******** Login Successful ********
+09/30/2022 12:01:52 PM - INFO : ******* Starting Add Player Test **********
+09/30/2022 12:01:58 PM - INFO : ******* Starting to provide the Player Details
+09/30/2022 12:24:33 PM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 12:25:16 PM - INFO : ******** Login Successful ********
+09/30/2022 12:25:16 PM - INFO : ******* Starting Add Player Test **********
+09/30/2022 12:25:24 PM - INFO : ******* Starting to provide the Player Details
+09/30/2022 02:02:18 PM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 02:02:42 PM - INFO : ******** Login Successful ********
+09/30/2022 02:02:42 PM - INFO : ******* Starting Add Player Test **********
+09/30/2022 02:03:00 PM - INFO : ******* Starting to provide the Player Details
+09/30/2022 02:07:13 PM - INFO : *********** Test_003_AddPlayer **********
+09/30/2022 02:07:35 PM - INFO : ******** Login Successful ********
+09/30/2022 02:07:35 PM - INFO : ******* Starting Add Player Test **********
+09/30/2022 02:07:49 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 09:26:54 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 09:27:22 AM - INFO : ******** Login Successful ********
+10/03/2022 09:27:22 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 09:27:58 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 09:48:11 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 09:48:33 AM - INFO : ******** Login Successful ********
+10/03/2022 09:48:33 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 09:48:38 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 09:52:24 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 09:53:54 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 09:54:17 AM - INFO : ******** Login Successful ********
+10/03/2022 09:54:17 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 09:54:28 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 09:57:41 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:00:06 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:00:19 AM - INFO : ******** Login Successful ********
+10/03/2022 10:00:19 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:00:23 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:02:47 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:03:23 AM - INFO : ******** Login Successful ********
+10/03/2022 10:03:23 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:03:33 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:06:04 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:06:20 AM - INFO : ******** Login Successful ********
+10/03/2022 10:06:20 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:06:29 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:09:14 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:09:28 AM - INFO : ******** Login Successful ********
+10/03/2022 10:09:28 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:09:35 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:11:24 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:11:42 AM - INFO : ******** Login Successful ********
+10/03/2022 10:11:42 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:11:49 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:13:42 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:15:34 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:15:52 AM - INFO : ******** Login Successful ********
+10/03/2022 10:15:52 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:16:06 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:23:24 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:25:09 AM - INFO : ******** Login Successful ********
+10/03/2022 10:25:09 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:25:26 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 10:43:16 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 10:43:33 AM - INFO : ******** Login Successful ********
+10/03/2022 10:43:33 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 10:43:39 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:02:26 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:02:52 AM - INFO : ******** Login Successful ********
+10/03/2022 11:02:52 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:03:02 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:25:48 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:26:24 AM - INFO : ******** Login Successful ********
+10/03/2022 11:26:24 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:26:38 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:26:41 AM - INFO : *********** Starting Providing Parents' and Guardian's Details *********
+10/03/2022 11:26:41 AM - INFO : ************Start Providing Father's Details **********
+10/03/2022 11:26:43 AM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 11:31:43 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:32:02 AM - INFO : ******** Login Successful ********
+10/03/2022 11:32:02 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:32:13 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:32:20 AM - INFO : *********** Starting Providing Parents' and Guardian's Details *********
+10/03/2022 11:32:20 AM - INFO : ************Start Providing Father's Details **********
+10/03/2022 11:32:21 AM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 11:32:22 AM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 11:40:00 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:40:45 AM - INFO : ******** Login Successful ********
+10/03/2022 11:40:45 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:41:01 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:41:06 AM - INFO : *********** Starting Providing Parents' and Guardian's Details *********
+10/03/2022 11:41:07 AM - INFO : ************Start Providing Father's Details **********
+10/03/2022 11:41:09 AM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 11:41:10 AM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 11:51:23 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:51:53 AM - INFO : ******** Login Successful ********
+10/03/2022 11:51:53 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:52:02 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:52:05 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 11:52:05 AM - INFO : ************Start Providing Father's Details **********
+10/03/2022 11:52:06 AM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 11:52:06 AM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 11:58:01 AM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 11:58:16 AM - INFO : ******** Login Successful ********
+10/03/2022 11:58:16 AM - INFO : ******* Starting Add Player Test **********
+10/03/2022 11:58:24 AM - INFO : ******* Starting to provide the Player Details
+10/03/2022 11:58:28 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 11:58:28 AM - INFO : ************Start Providing Father's Details **********
+10/03/2022 11:58:29 AM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 11:58:30 AM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 12:01:41 PM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 12:01:57 PM - INFO : ******** Login Successful ********
+10/03/2022 12:01:57 PM - INFO : ******* Starting Add Player Test **********
+10/03/2022 12:02:04 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 12:02:29 PM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 12:02:29 PM - INFO : ************Start Providing Father's Details **********
+10/03/2022 12:02:37 PM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 12:02:46 PM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 12:32:34 PM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 12:32:55 PM - INFO : ******** Login Successful ********
+10/03/2022 12:32:55 PM - INFO : ******* Starting Add Player Test **********
+10/03/2022 12:33:07 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 12:33:33 PM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 12:33:33 PM - INFO : ************Start Providing Father's Details **********
+10/03/2022 12:33:42 PM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 12:33:51 PM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 12:33:56 PM - INFO : ******* Saving Player's Info ********
+10/03/2022 12:33:56 PM - INFO : ******* Add Player Validation Started ********
+10/03/2022 12:35:20 PM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 12:35:40 PM - INFO : ******** Login Successful ********
+10/03/2022 12:35:40 PM - INFO : ******* Starting Add Player Test **********
+10/03/2022 12:35:44 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 12:36:07 PM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 12:36:07 PM - INFO : ************Start Providing Father's Details **********
+10/03/2022 12:36:16 PM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 12:36:25 PM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 12:36:29 PM - INFO : ******* Saving Player's Info ********
+10/03/2022 12:36:29 PM - INFO : ******* Add Player Validation Started ********
+10/03/2022 01:31:25 PM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 01:31:49 PM - INFO : ******** Login Successful ********
+10/03/2022 01:31:49 PM - INFO : ******* Starting Add Player Test **********
+10/03/2022 01:32:08 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 01:32:34 PM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 01:32:34 PM - INFO : ************Start Providing Father's Details **********
+10/03/2022 01:32:43 PM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 01:32:52 PM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 01:32:57 PM - INFO : ******* Saving Player's Info ********
+10/03/2022 01:32:57 PM - INFO : ******* Add Player Validation Started ********
+10/03/2022 01:34:33 PM - INFO : *********** Test_003_AddPlayer **********
+10/03/2022 01:34:45 PM - INFO : ******** Login Successful ********
+10/03/2022 01:34:45 PM - INFO : ******* Starting Add Player Test **********
+10/03/2022 01:34:53 PM - INFO : ******* Starting to provide the Player Details
+10/03/2022 01:35:19 PM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/03/2022 01:35:19 PM - INFO : ************Start Providing Father's Details **********
+10/03/2022 01:35:28 PM - INFO : ************Start Providing Mother's Details **********
+10/03/2022 01:35:36 PM - INFO : ************Start Providing Guardian's Details **********
+10/03/2022 01:35:41 PM - INFO : ******* Saving Player's Info ********
+10/03/2022 01:35:41 PM - INFO : ******* Add Player Validation Started ********
+10/04/2022 10:24:52 AM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 10:25:15 AM - INFO : ******** Login Successful ********
+10/04/2022 10:25:15 AM - INFO : ******* Starting Search Player Test **********
+10/04/2022 10:54:53 AM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 10:55:20 AM - INFO : ******** Login Successful ********
+10/04/2022 10:55:20 AM - INFO : ******* Starting Search Player Test **********
+10/04/2022 10:55:26 AM - INFO : ******** Search By Player's Email **********
+10/04/2022 10:55:27 AM - INFO : ******** Search By  Player's Name **********
+10/04/2022 10:55:28 AM - INFO : ******** Search By Player's Current school **********
+10/04/2022 10:56:28 AM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 10:56:50 AM - INFO : ******** Login Successful ********
+10/04/2022 10:56:50 AM - INFO : ******* Starting Search Player Test **********
+10/04/2022 10:58:22 AM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 10:58:46 AM - INFO : ******** Login Successful ********
+10/04/2022 10:58:46 AM - INFO : ******* Starting Search Player Test **********
+10/04/2022 10:58:52 AM - INFO : ******** Search By Player's Email **********
+10/04/2022 10:58:53 AM - INFO : ******** Search By  Player's Name **********
+10/04/2022 10:58:54 AM - INFO : ******** Search By Player's Current school **********
+10/04/2022 11:01:22 AM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 11:01:40 AM - INFO : ******** Login Successful ********
+10/04/2022 11:01:40 AM - INFO : ******* Starting Search Player Test **********
+10/04/2022 11:01:56 AM - INFO : ******** Search By Player's Email **********
+10/04/2022 11:02:05 AM - INFO : ******** Search By  Player's Name **********
+10/04/2022 11:02:08 AM - INFO : ******** Search By Player's Current school **********
+10/04/2022 12:27:55 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 12:28:37 PM - INFO : ******** Login Successful ********
+10/04/2022 12:28:37 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 12:28:46 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 12:35:23 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 12:36:23 PM - INFO : ******** Login Successful ********
+10/04/2022 12:36:23 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 12:36:35 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 01:25:12 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 01:25:26 PM - INFO : ******** Login Successful ********
+10/04/2022 01:25:26 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 01:25:33 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 04:04:32 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 04:04:53 PM - INFO : ******** Login Successful ********
+10/04/2022 04:04:53 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 04:05:01 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 04:09:32 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 04:09:54 PM - INFO : ******** Login Successful ********
+10/04/2022 04:09:54 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 04:10:00 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 04:13:05 PM - INFO : *********** Test_004_searchPlayer **********
+10/04/2022 04:13:24 PM - INFO : ******** Login Successful ********
+10/04/2022 04:13:24 PM - INFO : ******* Starting Search Player Test **********
+10/04/2022 04:13:31 PM - INFO : ******** Search By Player's Email **********
+10/04/2022 04:13:35 PM - INFO : ******** test_searchPlayerByEmail Passed ***********
+10/05/2022 08:49:32 AM - INFO : *********** Test_004_searchPlayer **********
+10/05/2022 08:49:45 AM - INFO : ******** Login Successful ********
+10/05/2022 08:49:45 AM - INFO : ******* Starting Search Player Test **********
+10/05/2022 08:49:51 AM - INFO : ******** Search By Player's Email **********
+10/05/2022 08:49:54 AM - INFO : ******** test_searchPlayerByEmail Passed ***********
+10/05/2022 09:31:37 AM - INFO : *********** Test_005_searchPlayer **********
+10/05/2022 09:31:51 AM - INFO : ******** Login Successful ********
+10/05/2022 09:31:51 AM - INFO : ******* Starting Search Player By Name **********
+10/05/2022 09:31:57 AM - INFO : ******** Search By Player's Name **********
+10/05/2022 09:34:08 AM - INFO : *********** Test_005_searchPlayer **********
+10/05/2022 09:34:25 AM - INFO : ******** Login Successful ********
+10/05/2022 09:34:25 AM - INFO : ******* Starting Search Player By Name **********
+10/05/2022 09:34:32 AM - INFO : ******** Search By Player's Name **********
+10/05/2022 09:34:34 AM - INFO : ******** test_searchPlayerByName Passed ***********
+10/05/2022 09:37:58 AM - INFO : *********** Test_005_searchPlayer **********
+10/05/2022 09:38:20 AM - INFO : ******** Login Successful ********
+10/05/2022 09:38:20 AM - INFO : ******* Starting Search Player By School **********
+10/05/2022 09:38:27 AM - INFO : ******** Search By Player's School **********
+10/05/2022 09:38:32 AM - INFO : ******** test_searchPlayerBySchool Passed ***********
+10/05/2022 10:29:37 AM - INFO : *********** Test_003_AddPlayer **********
+10/05/2022 10:29:50 AM - INFO : ******** Login Successful ********
+10/05/2022 10:29:50 AM - INFO : ******* Starting Add Player Test **********
+10/05/2022 10:30:34 AM - INFO : *********** Verifying the Login Test **********
+10/05/2022 10:31:10 AM - INFO : ********** Login Test is Passed ************
+10/05/2022 10:32:29 AM - INFO : *********** Test_003_AddPlayer **********
+10/05/2022 10:32:40 AM - INFO : ******** Login Successful ********
+10/05/2022 10:32:40 AM - INFO : ******* Starting Add Player Test **********
+10/05/2022 10:32:46 AM - INFO : ******* Starting to provide the Player Details
+10/05/2022 10:33:15 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/05/2022 10:33:15 AM - INFO : ************Start Providing Father's Details **********
+10/05/2022 10:33:24 AM - INFO : ************Start Providing Mother's Details **********
+10/05/2022 10:33:33 AM - INFO : ************Start Providing Guardian's Details **********
+10/05/2022 10:33:38 AM - INFO : ******* Saving Player's Info ********
+10/05/2022 10:33:38 AM - INFO : ******* Add Player Validation Started ********
+10/05/2022 10:33:42 AM - INFO : ******* Ending Add Player Test *********
+10/05/2022 10:33:56 AM - INFO : *********** Verifying the Login Test **********
+10/05/2022 10:34:12 AM - INFO : ********** Login Test is Passed ************
+10/05/2022 10:36:42 AM - INFO : *********** Test_003_AddPlayer **********
+10/05/2022 10:36:58 AM - INFO : ******** Login Successful ********
+10/05/2022 10:36:58 AM - INFO : ******* Starting Add Player Test **********
+10/05/2022 10:37:14 AM - INFO : ******* Starting to provide the Player Details
+10/05/2022 10:37:40 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/05/2022 10:37:40 AM - INFO : ************Start Providing Father's Details **********
+10/05/2022 10:37:48 AM - INFO : ************Start Providing Mother's Details **********
+10/05/2022 10:37:58 AM - INFO : ************Start Providing Guardian's Details **********
+10/05/2022 10:38:03 AM - INFO : ******* Saving Player's Info ********
+10/05/2022 10:38:03 AM - INFO : ******* Add Player Validation Started ********
+10/05/2022 10:38:08 AM - INFO : ******* Ending Add Player Test *********
+10/05/2022 10:38:33 AM - INFO : *********** Start Test_001_Login ******** 
+10/05/2022 10:38:33 AM - INFO : *********** Verifying the Home Page Title **********
+10/05/2022 10:38:51 AM - INFO : ********** Home Page Title Test is Passed ************
+10/05/2022 10:39:02 AM - INFO : *********** Verifying the Login Test **********
+10/05/2022 10:39:17 AM - INFO : ********** Login Test is Passed ************
+10/05/2022 10:39:27 AM - INFO : ******* Test_002_DDT_Login *****
+10/05/2022 10:39:27 AM - INFO : ******* Verifying Login Test DDT ****
+10/05/2022 10:40:10 AM - INFO : ****** Passed ******
+10/05/2022 10:40:17 AM - INFO : ***** Passed ******
+10/05/2022 10:40:24 AM - INFO : ***** Passed ******
+10/05/2022 10:40:29 AM - INFO : ***** Passed ******
+10/05/2022 10:40:29 AM - INFO : **** Login DDT test Passed ******
+10/05/2022 10:40:31 AM - INFO : ******** End of Login DDT Test *********
+10/05/2022 10:40:31 AM - INFO : ******** Completed TC_loginDDT_002 ********
+10/05/2022 10:40:44 AM - INFO : *********** Test_004_searchPlayer **********
+10/05/2022 10:41:00 AM - INFO : ******** Login Successful ********
+10/05/2022 10:41:00 AM - INFO : ******* Starting Search Player By Email **********
+10/05/2022 10:41:04 AM - INFO : ******** Search By Player's Email **********
+10/05/2022 10:41:06 AM - INFO : ******** test_searchPlayerByEmail Passed ***********
+10/05/2022 10:41:22 AM - INFO : *********** Test_005_searchPlayer **********
+10/05/2022 10:41:32 AM - INFO : ******** Login Successful ********
+10/05/2022 10:41:32 AM - INFO : ******* Starting Search Player By Name **********
+10/05/2022 10:41:36 AM - INFO : ******** Search By Player's Name **********
+10/05/2022 10:41:39 AM - INFO : ******** test_searchPlayerByName Passed ***********
+10/05/2022 10:41:53 AM - INFO : *********** Test_005_searchPlayer **********
+10/05/2022 10:42:03 AM - INFO : ******** Login Successful ********
+10/05/2022 10:42:03 AM - INFO : ******* Starting Search Player By School **********
+10/05/2022 10:42:07 AM - INFO : ******** Search By Player's School **********
+10/05/2022 10:42:09 AM - INFO : ******** test_searchPlayerBySchool Passed ***********
+10/06/2022 11:53:06 AM - INFO : *********** Test_003_AddPlayer **********
+10/06/2022 11:53:28 AM - INFO : ******** Login Successful ********
+10/06/2022 11:53:28 AM - INFO : ******* Starting Add Player Test **********
+10/06/2022 11:53:43 AM - INFO : ******* Starting to provide the Player Details
+10/06/2022 11:54:10 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/06/2022 11:54:10 AM - INFO : ************Start Providing Father's Details **********
+10/06/2022 11:54:19 AM - INFO : ************Start Providing Mother's Details **********
+10/06/2022 11:54:27 AM - INFO : ************Start Providing Guardian's Details **********
+10/06/2022 11:54:32 AM - INFO : ******* Saving Player's Info ********
+10/06/2022 11:54:32 AM - INFO : ******* Add Player Validation Started ********
+10/06/2022 11:54:40 AM - INFO : ******* Ending Add Player Test *********
+10/06/2022 11:54:57 AM - INFO : *********** Start Test_001_Login ******** 
+10/06/2022 11:54:57 AM - INFO : *********** Verifying the Home Page Title **********
+10/06/2022 11:55:10 AM - INFO : ********** Home Page Title Test is Passed ************
+10/06/2022 11:55:21 AM - INFO : *********** Verifying the Login Test **********
+10/06/2022 11:55:39 AM - INFO : ********** Login Test is Passed ************
+10/06/2022 11:55:50 AM - INFO : ******* Test_002_DDT_Login *****
+10/06/2022 11:55:50 AM - INFO : ******* Verifying Login Test DDT ****
+10/06/2022 11:56:17 AM - INFO : ****** Passed ******
+10/06/2022 11:56:24 AM - INFO : ***** Passed ******
+10/06/2022 11:56:30 AM - INFO : ***** Passed ******
+10/06/2022 11:56:36 AM - INFO : ***** Passed ******
+10/06/2022 11:56:36 AM - INFO : **** Login DDT test Passed ******
+10/06/2022 11:56:38 AM - INFO : ******** End of Login DDT Test *********
+10/06/2022 11:56:38 AM - INFO : ******** Completed TC_loginDDT_002 ********
+10/06/2022 11:56:59 AM - INFO : *********** Test_004_searchPlayer **********
+10/06/2022 11:57:15 AM - INFO : ******** Login Successful ********
+10/06/2022 11:57:15 AM - INFO : ******* Starting Search Player By Email **********
+10/06/2022 11:57:22 AM - INFO : ******** Search By Player's Email **********
+10/06/2022 11:57:24 AM - INFO : ******** test_searchPlayerByEmail Passed ***********
+10/06/2022 11:57:52 AM - INFO : *********** Test_005_searchPlayer **********
+10/06/2022 11:58:15 AM - INFO : ******** Login Successful ********
+10/06/2022 11:58:15 AM - INFO : ******* Starting Search Player By Name **********
+10/06/2022 11:58:20 AM - INFO : ******** Search By Player's Name **********
+10/06/2022 11:58:22 AM - INFO : ******** test_searchPlayerByName Passed ***********
+10/07/2022 09:52:35 AM - INFO : *********** Verifying the Login Test **********
+10/07/2022 10:59:36 AM - INFO : *********** Test_003_AddPlayer **********
+10/07/2022 11:00:31 AM - INFO : ******** Login Successful ********
+10/07/2022 11:00:31 AM - INFO : ******* Starting Add Player Test **********
+10/07/2022 11:00:54 AM - INFO : ******* Starting to provide the Player Details
+10/07/2022 11:01:19 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/07/2022 11:01:19 AM - INFO : ************Start Providing Father's Details **********
+10/07/2022 11:01:32 AM - INFO : ************Start Providing Mother's Details **********
+10/07/2022 11:01:41 AM - INFO : ************Start Providing Guardian's Details **********
+10/07/2022 11:01:46 AM - INFO : ******* Saving Player's Info ********
+10/07/2022 11:01:46 AM - INFO : ******* Add Player Validation Started ********
+10/07/2022 11:01:54 AM - INFO : ******* Ending Add Player Test *********
+10/07/2022 11:02:14 AM - INFO : *********** Verifying the Login Test **********
+10/07/2022 11:02:36 AM - INFO : ********** Login Test is Passed ************
