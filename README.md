@@ -104,6 +104,15 @@ Step11: Create Group tests
          11.1.2: @Pytest.mark.regression
          
     11.2: Add/Register marker entries in pytest.in file under "testCases" package.
+    
+    11.3: Select groups at run time
+        
+        -m "sanity"
+        
+        -m "regression"
+        
+    11.4: Run command: pytest -v -s -m "sanity"
+    
          
         
      
