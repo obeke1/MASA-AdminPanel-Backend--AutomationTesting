@@ -87,7 +87,7 @@ Step9: Automating Data Driven Test Case
      
 Step10: Adding new test cases under "testCases" package
 
-     10.1: test_appPlayer.py to add new player
+     10.1: test_addPlayer.py to add new player
      
      10.2: test_searchPlayerByEmail to search a player by Email
      
