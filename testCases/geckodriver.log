@@ -2807,3 +2807,42 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript error: https://mayunganoamukasocceracademy.000webhostapp.com/admin/index.php, line 503: TypeError: items[1] is null
 1665129753441	Marionette	INFO	Stopped listening on port 64668
 [Parent 12448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665131962515	geckodriver	INFO	Listening on 127.0.0.1:64917
+1665131965620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CMI\\AppData\\Local\\Temp\\rust_mozprofile2xBxXt"
+1665131973833	Marionette	INFO	Marionette enabled
+1665131973914	Marionette	INFO	Listening on port 64927
+Read port: 64927
+Read port: 64927
+WebDriver BiDi listening on ws://127.0.0.1:64918
+1665131978858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CMI\\AppData\\Local\\Temp\\rust_mozprofile2xBxXt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64918/devtools/browser/574f62eb-d050-4bf6-9e40-87f24b32c90d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mayunganoamukasocceracademy.000webhostapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mayunganoamukasocceracademy.000webhostapp.com."
+JavaScript error: https://mayunganoamukasocceracademy.000webhostapp.com/admin/index.php, line 503: TypeError: items[1] is null
+JavaScript error: https://mayunganoamukasocceracademy.000webhostapp.com/admin/manage-players.php, line 506: TypeError: items[1] is null
+JavaScript error: https://mayunganoamukasocceracademy.000webhostapp.com/admin/add-player.php, line 876: TypeError: items[1] is null
+1665132094887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665132095118	Marionette	INFO	Stopped listening on port 64927
+1665132100958	geckodriver	INFO	Listening on 127.0.0.1:64984
+1665132104265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CMI\\AppData\\Local\\Temp\\rust_mozprofilePpb7a7"
+1665132107388	Marionette	INFO	Marionette enabled
+1665132107400	Marionette	INFO	Listening on port 64994
+Read port: 64994
+WebDriver BiDi listening on ws://127.0.0.1:64985
+1665132107604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CMI\\AppData\\Local\\Temp\\rust_mozprofilePpb7a7\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:64985/devtools/browser/3a84b36e-b3fc-44d4-9ee4-484c1249e6b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mayunganoamukasocceracademy.000webhostapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mayunganoamukasocceracademy.000webhostapp.com."
+JavaScript error: https://mayunganoamukasocceracademy.000webhostapp.com/admin/index.php, line 503: TypeError: items[1] is null
+1665132167773	Marionette	INFO	Stopped listening on port 64994
+[Parent 8548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

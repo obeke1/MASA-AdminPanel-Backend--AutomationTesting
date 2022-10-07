@@ -459,3 +459,16 @@
 10/07/2022 11:01:54 AM - INFO : ******* Ending Add Player Test *********
 10/07/2022 11:02:14 AM - INFO : *********** Verifying the Login Test **********
 10/07/2022 11:02:36 AM - INFO : ********** Login Test is Passed ************
+10/07/2022 11:40:08 AM - INFO : *********** Test_003_AddPlayer **********
+10/07/2022 11:40:32 AM - INFO : ******** Login Successful ********
+10/07/2022 11:40:32 AM - INFO : ******* Starting Add Player Test **********
+10/07/2022 11:40:46 AM - INFO : ******* Starting to provide the Player Details
+10/07/2022 11:41:12 AM - INFO : ***** Starting Providing Parents' and Guardian's Details *****
+10/07/2022 11:41:12 AM - INFO : ************Start Providing Father's Details **********
+10/07/2022 11:41:21 AM - INFO : ************Start Providing Mother's Details **********
+10/07/2022 11:41:30 AM - INFO : ************Start Providing Guardian's Details **********
+10/07/2022 11:41:35 AM - INFO : ******* Saving Player's Info ********
+10/07/2022 11:41:35 AM - INFO : ******* Add Player Validation Started ********
+10/07/2022 11:41:40 AM - INFO : ******* Ending Add Player Test *********
+10/07/2022 11:41:56 AM - INFO : *********** Verifying the Login Test **********
+10/07/2022 11:42:49 AM - INFO : ********** Login Test is Passed ************
