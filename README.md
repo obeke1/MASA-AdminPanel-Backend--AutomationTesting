@@ -1,5 +1,5 @@
 # MASA-AdminPanel-Backend--AutomationTesting
-Mayungano Amuka Soccer Academy(MASA)AdminPanel(Backend)"https://mayunganoamukasocceracademy.000webhostapp.com/admin" -is an online Soccer academy website for administrator for MAsa to perform
+Mayungano Amuka Soccer Academy(MASA)AdminPanel(Backend)"https://mayunganoamukasocceracademy.000webhostapp.com/admin" -is an online Soccer academy website for administrator for MASA to perform
 different tasks. 
 
 For this project, i used windows(operating system), python(programming language), selenium(automation), pytest(python testing framework), pytest-html(pytest HTML Reports)
